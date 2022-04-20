@@ -1,0 +1,23 @@
+.tel{
+    margin-bottom: 7px;  
+    padding: 7px 40px;
+}
+
+.password{
+    padding: 7px 40px;
+}
+
+.regist{
+    color: aqua;
+}
+
+.vhod{
+    padding: 4px 106px; 
+    background: blue; 
+    border-color:blue;
+    color: white;
+    text-decoration: none;
+}
+
+
+

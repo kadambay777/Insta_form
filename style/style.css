@@ -1,0 +1,216 @@
+*{
+    padding: 0%;
+}
+
+.ful {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    border-bottom: 1px  solid ;
+    background: white;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 2;
+}
+
+.v{
+    display: flex;
+    justify-content: center;
+}
+
+.sm-ful {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 55%;
+}
+
+.log{
+    padding: 5px;
+}
+
+.iput{
+    padding: 6px 20px 6px 40px ;
+    border-radius: 8px;
+    background: #f5f1f1;
+}
+
+svg{
+    margin-right: 20px;
+}
+
+.full2{
+    display: flex;
+    width: 100%;
+    margin-top: 70px;
+    justify-content: center;
+}
+
+.sm-full2{
+    width: 55%;
+    display: flex;
+    background: white;
+    justify-content: left;
+}
+
+.logo-edison{
+    padding-left: 7px;
+
+}
+
+.logo-scala{
+    padding-left: 15px;
+}
+
+.logo-scala2{
+    padding-left: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.th{
+    padding-left: 20px;
+}
+
+
+.historiy{
+    padding: 10px 429px 10px 9px;
+    background: white;; 
+}
+
+.name{
+    position: relative;
+    bottom: 30px;
+}
+.live{
+    position: relative;
+    right: 88px;
+    bottom: 8px;
+}
+.video{
+    position: relative;
+    bottom: 6px;
+}
+
+.fie{
+    margin-top: 20px;
+}
+
+.home2{
+    padding: 15px 15px 10px 15px;
+}
+
+.com{
+    padding-left:15px;
+}
+
+.com2{
+    color: black;
+}
+
+.profil{
+    text-decoration: none;
+    color: #000000;
+}
+
+.asdc{
+    position: relative;
+    top: 3px;
+    color: #8e8e8e;
+}
+
+.asd{
+    position: relative;
+    top: 6px;
+    color: #8e8e8e;  
+}
+
+.comend{
+    padding-right: 380px;
+    padding-left: 50px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    position: relative;
+    left: 2px;
+    bottom: 34px;
+}
+
+.smile{
+    position: relative;
+    left: 10px;
+    bottom: 66px;
+} 
+
+.positi{
+    color: #0095f6;
+    position: relative;
+    left: 450px;
+    bottom: 75px;
+}
+
+.flag{
+    padding-left: 380px;
+}
+
+.epic{
+    position: relative;
+    bottom: 30px;
+    left:7px;
+}
+
+.epic1{
+    position: relative;
+    bottom: 10px;
+    font-size: 12px;
+    color: #0095f6;
+    right: 15px;
+}
+
+.epic2{
+    position: relative;
+    bottom: 20px;
+    font-size: 12px;
+    color: #0095f6;
+}
+
+.epic3{
+    position: relative;
+    font-size: 14px ;
+    bottom: 20px;
+}
+
+.hard{
+    position: relative;
+    bottom: 10px;
+    right: 70px;
+    color: #cfcccc; 
+}
+
+.hard1{
+    margin-left: 700px;
+    margin-top: 30px;
+    position: fixed;
+}
+
+.hard3{
+    position: relative;
+    font-size: 12px;
+    right: 70px;
+    color: #8e8e8e;
+}
+
+.img{
+    padding-right: 5px;
+}
+
+.ser{
+    font-size: 14px;
+    color: #8e8e8e;
+}
+
+.ed{
+    text-decoration: none;
+    color: #000000;
+}

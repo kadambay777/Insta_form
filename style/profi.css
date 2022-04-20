@@ -1,0 +1,23 @@
+
+.logo{
+    margin-left: 480px; 
+    padding-top: 13px;
+}
+
+.home{
+    margin-left: 90px;
+    padding-right: 15px;
+}
+
+svg{
+    padding-right: 15px;
+}
+
+.input{
+    background: #efefef;
+    margin-left: 230px; 
+    padding-bottom: 100px; 
+    padding: 8px 50px 8px 40px; 
+    border-radius: 8px;
+    border-color: #efefef;
+}
